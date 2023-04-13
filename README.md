@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-sharan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-sharan" /> </p>
 
-- 🔭 I’m currently working on **Python Algorithm Repository**
+- 🔭 I’m currently working on **Python Learning Repository and SQL Basic Learning Repository**
 
-- 🌱 I’m currently learning **Machine Learning, Three Js, Blender**
+- 🌱 I’m currently learning **Big Data, Statistics and Data Analytics**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Analytics Projects**
 
 - 💬 Ask me about **Python, Azure, Google Cloud, Solution Architecture on Azure**
 
